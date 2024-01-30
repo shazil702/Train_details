@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL0hvdy1UcmFpbnMtV29yay0tLTE2MDB4OTAwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjEyMDAifX19);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+table{
+    background-color: rgb(91, 182, 91);
+    
+}
+th,td{
+    text-align: center;
+    padding: 30px;
+}
+button{
+   background-color: rgb(126, 171, 214);
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border-radius: 0px;
+}
+.navbar{
+    display: flex;
+    float: right;
+}
+.navbut{
+    background-color: rgb(45, 39, 39);
+    color: aliceblue;
+}

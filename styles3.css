@@ -1,0 +1,43 @@
+body{
+    background-image: url(seats.jpg);
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+h1{
+    background-color: aliceblue;
+}
+table{
+    background-color: rgb(65, 167, 65);
+}
+td,th{
+    text-align: center;
+    padding: 20px;
+}
+th:hover{
+    color: white;
+    background-color: black;
+}
+td:hover{
+    color: black;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    float: right;
+}
+.navbut{
+    background-color: rgb(45, 39, 39);
+    color: aliceblue;
+}
+button{
+    background-color: rgb(126, 171, 214);
+     width: 150px;
+     height: 40px;
+     border-radius: 30px;
+ }
+ button:hover{
+     background-color: black;
+     color: white;
+     border-radius: 0px;
+ }
